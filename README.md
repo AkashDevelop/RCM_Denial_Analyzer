@@ -18,7 +18,6 @@ Developing this solution required careful consideration of healthcare RCM comple
 ![Image](https://github.com/user-attachments/assets/182fbeb4-5320-4e2f-afc6-4b7e7f97e3c9)
 
 ### 🧩 Data Complexity Challenges
-_"How do we handle real-world billing data variations?"_  
 Built robust data validation to handle:
 - Mixed date formats in Excel files 📅
 - Non-standard denial reason phrasing 🗃️
